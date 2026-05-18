@@ -46,6 +46,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Material Design UI Kit](https://www.figma.com/community/file/827480300240973612/Material-Design-UI-Kit) – Google’s Material Design system.
 - [Apple UI Kit](https://www.figma.com/community/file/1035203688168086460/iOS-16-UI-Kit-%E2%80%94-iPhone-14-Pro) – iOS design elements.
 - [Eva Design System](https://www.figma.com/community/file/767503759972057451/Eva-Design-System) – Design system for React Native and Web.
+- [Chinese Color Atlas](https://www.figma.com/community/file/1637863774550903181) – Figma Variables starter file for Chinese traditional colors with Guochao, Song-inspired, and Dunhuang palette modes.
 
 ## Tools & Extensions
 
