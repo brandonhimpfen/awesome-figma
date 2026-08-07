@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Iconify](https://www.figma.com/community/plugin/733098390272716381/Iconify) – Import over 100,000 icons directly into your Figma project.
 - [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) – Create and customize illustrations.
 - [Charts](https://www.figma.com/community/plugin/734361163286024320/Charts) – Add editable charts and graphs.
+- [Flow Pro](https://www.figma.com/community/plugin/1666194024247251759/flow-pro-arrows-connectors-user-flows) – Wire a whole user flow at once with orthogonal arrows that never cross.
 
 ## Templates
 
