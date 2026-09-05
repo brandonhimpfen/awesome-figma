@@ -1,4 +1,4 @@
-# Awesome Figma [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Figma [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031066211.svg)](https://doi.org/10.5281/zenodo.19673339)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -83,10 +83,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Design](https://github.com/awesomelistsio/awesome-design)** – Design tools and resources.
-- **[Awesome UX](https://github.com/awesomelistsio/awesome-ux)** – UX tools and research.
-- **[Awesome Web Design](https://github.com/awesomelistsio/awesome-web-design)** – Web design inspiration and learning.
-- **[Awesome Icons](https://github.com/awesomelistsio/awesome-icons)** – Icon packs and resources.
+- **[Awesome Design](https://github.com/brandonhimpfen/awesome-design)** – Design tools and resources.
+- **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux)** – UX tools and research.
+- **[Awesome Web Design](https://github.com/brandonhimpfen/awesome-web-design)** – Web design inspiration and learning.
+- **[Awesome Icons](https://github.com/brandonhimpfen/awesome-icons)** – Icon packs and resources.
   
 ## Contribute
 
